@@ -1,5 +1,5 @@
 /**
-* @project_name FALCON-MD
+* @project_name FALCON-MD.
 * @authors PSYCHO_BABA
 * @description The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier
 ©  2025 FALCON-MD. All rights reserved.
